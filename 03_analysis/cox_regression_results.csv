@@ -1,0 +1,4 @@
+"Covariate","HR","CI_Lower","CI_Upper","P_Value"
+"Age (per year)",1.011,0.993,1.03,0.2324
+"Sex (Female vs Male)",0.575,0.414,0.799,0.001
+"ECOG Score",1.59,1.273,1.986,0
