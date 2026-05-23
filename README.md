@@ -104,7 +104,5 @@ Open RStudio, set your working directory to the project root, and run the script
 
 ## About the Author
 
-Nithish Deenadayalan is an MSc Business Analytics graduate from UCD Smurfit Graduate Business School with a background in AI, data science, and statistical analysis. Currently based in Dublin with a valid Stamp 1G visa and open to full-time opportunities in statistical analysis, data analytics, and business intelligence.
-
 LinkedIn: linkedin.com/in/nithish-deenadayalan
 Email: nitd020611@gmail.com
