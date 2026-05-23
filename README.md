@@ -34,32 +34,6 @@ The NCCTG Lung Cancer dataset is a real clinical trial dataset from the North Ce
 
 ---
 
-## Project Structure
-clinical-trial-statistical-analysis/
-├── 01_data/
-│   ├── data_dictionary.csv
-│   ├── summary_by_sex.csv
-│   ├── summary_by_ecog.csv
-│   └── summary_by_age.csv
-├── 03_analysis/
-│   ├── day1_data_exploration.R
-│   ├── day2_sample_size.R
-│   ├── day2_descriptive_stats.R
-│   ├── day3_survival_analysis.R
-│   ├── day4_cox_regression.R
-│   ├── day5_repeated_measures.R
-│   ├── plot_overall_survival.png
-│   ├── plot_survival_by_sex.png
-│   ├── plot_survival_by_ecog.png
-│   ├── plot_forest_cox.png
-│   └── cox_regression_results.csv
-├── 05_dashboard/
-│   ├── app.py
-│   └── requirements.txt
-└── README.md
-
----
-
 ## Statistical Methods
 
 ### 1. Descriptive Statistics
